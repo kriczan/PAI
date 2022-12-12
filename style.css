@@ -1,0 +1,61 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+header{
+	background-color: orangered ;
+}
+
+header img{
+		width: 1905px;
+		height: 200px;
+}
+nav{
+	background-color: orange;
+	padding: 20px;
+}
+
+nav ul li{
+	float: left;
+	margin-left: 30px;
+}
+aside{
+	background-color: orange;
+	width: 30%;
+	float: left;
+	margin-top: 50px;
+}
+
+aside form input{
+	display: block;
+}
+
+main{
+	background-color: darkorange;
+	height: 400px;
+}
+
+main section img{
+	height: 200px;
+	width: 200px;
+	padding: 10px;
+}
+
+article{
+	background-color: orangered;
+	float: left;
+}
+article section input{
+	display: block;
+}
+
+footer{
+	display: block;
+	background-color: olivedrab;
+	padding: 10px;
+}
+
+footer p{
+	padding: 0px;
+	margin: 0px;
+}
